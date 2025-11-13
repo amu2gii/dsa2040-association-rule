@@ -80,6 +80,8 @@ The analysis rigorously evaluates performance, correctness, and interpretability
 ### 4. **Visualization**
 - Side-by-side horizontal bar plots is generated to Display **Top 10 Frequent Itemsets** for min_support = 0.01
 
+<img width="1790" height="590" alt="image" src="https://github.com/user-attachments/assets/810543e4-8689-434b-b1e6-61a4b16561d5" />
+
 
 
 ##  Sample Console Output
