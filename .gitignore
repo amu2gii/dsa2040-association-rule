@@ -1,0 +1,61 @@
+__pycache__\n.ipynb_checkpoints\n*.log
+online_retail_basket.csv
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Pytest
+.pytest_cache
+
+# Large Data Files (example - adjust as needed)
+*.csv # If you have other CSVs you don't want to track (be careful if you want the main one!)
+*.xlsx
+*.xls
+*.parquet
+*.h5
+*.feather
+*.dta # Stata files
+*.sav # SPSS files
+
+# Large Output Files (example - adjust as needed)
+output/
+results/
+plots/
+
+# Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
