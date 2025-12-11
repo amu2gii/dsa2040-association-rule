@@ -1,0 +1,4 @@
+support,itemsets,algorithm
+0.9999460538382694,frozenset({'1'}),FP-Growth
+0.9999460538382694,frozenset({'0'}),FP-Growth
+0.9999460538382694,"frozenset({'0', '1'})",FP-Growth

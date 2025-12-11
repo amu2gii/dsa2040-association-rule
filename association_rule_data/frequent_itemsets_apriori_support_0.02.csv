@@ -1,0 +1,4 @@
+support,itemsets,algorithm
+0.9999460538382694,frozenset({'0'}),Apriori
+0.9999460538382694,frozenset({'1'}),Apriori
+0.9999460538382694,"frozenset({'0', '1'})",Apriori
